@@ -1,0 +1,14 @@
+Package: riskybioRxiv
+Type: Package
+Title: Makes plots for the risky paper on bioRxiv
+Version: 0.1.0
+Author: Xiaoyue Zhu
+Maintainer: Xiaoyue Zhu <xz1634@pm.me>
+Description: This pacakge makes all the plots (main and supplementary) for Frontal but not parietal cortex is required for decisions under risk by 
+    Xiaoyue Zhu, Josh Moller-Mara, Sylvain Dubroqua, Chaofei Bao, Jeffrey C Erlich. doi: https://doi.org/10.1101/2021.11.19.469107. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:  R (>= 3.5.0), ggplot2, stringr, purrr, dplyr, tidyr, brms, lme4, loo, rstan, modelr, bayesplot,
+    gridExtra, ggimage, patchwork, colorspace, scales, latex2exp, coin
+RoxygenNote: 7.0.2
