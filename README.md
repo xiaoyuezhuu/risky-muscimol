@@ -9,4 +9,4 @@
 1. Simply run `figure_xxx` and it will output a ggplot figure
 2. All data is stored in `csv/`
 3. All stan and GLMM fits are stored in `fits/`
-4. `.stan` files contain the stain models
+4. `.stan` files contain the stain models, there are here for reference only and won't be run by the pacakge
